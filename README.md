@@ -20,7 +20,7 @@ Enforcing NFSv4 on server and disabling previous NFS versions made Win NFS clien
 
 # ssh
 
-Script needs ssh acces from Win to linux machine (authenticated)[http://www.linuxproblem.org/art_9.html] and (passphrase prompts)[https://unix.stackexchange.com/questions/12195/how-to-avoid-being-asked-passphrase-each-time-i-push-to-bitbucket].
+Script needs ssh acces from Win to linux machine [authenticated](http://www.linuxproblem.org/art_9.html) and [passphrase prompts](https://unix.stackexchange.com/questions/12195/how-to-avoid-being-asked-passphrase-each-time-i-push-to-bitbucket).
 
 # To Change
 
